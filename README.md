@@ -21,3 +21,5 @@
 7. Retrieval Augmented Generation nedir?
 
 8. LLM validasyonu nasıl yapılır?
+
+9. Cosine similarity nedir ve bir LLM ile nasıl kullanırsınız?
