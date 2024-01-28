@@ -1,5 +1,5 @@
 # tech-interview-hub
-Makine öğrenmesi, doğal dil işleme veya veri bilimi gibi alanlarda sorulmuş mülakat sorularını içermektedir.
+*Makine öğrenmesi*, *doğal dil işleme*, *veri bilimi* gibi alanlarda veya *python* ilintili pozisyonlarda daha önce sorulmuş mülakat sorularını içermektedir.
 
 <img src="./assets/dalle_icon.png" width="300" height="300">
 
