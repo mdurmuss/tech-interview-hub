@@ -19,6 +19,7 @@ sorulmuş mülakat sorularını içermektedir.
 - Retrieval Augmented Generation nedir?
 - LLM validasyonu nasıl yapılır?
 - Cosine similarity nedir ve bir LLM ile nasıl kullanırsınız?
+- RNN ve CNN arasındaki farklar nelerdir?
 
 ### Python
 
@@ -27,12 +28,14 @@ sorulmuş mülakat sorularını içermektedir.
 - Çok fazla elemanı olduğu bilinen bir dizide arama nasıl yaparsın? Hash table kullanarak arama yapmanın running time ne
   olur?
 - Elinizde vektör metinler var, burada hangi tür veritabanı kullanırsınız? NO-SQL veya SQL?
+- Fibonacci fonksiyonunu ve testlerini yazınız.
 
-
-### Data Science
+### Data Engineer & Data Scientist
 
 - Bir bankanın ekip içi kullanımına sunmak üzere bir search engine geliştirmeniz isteniyor.
     - Sadece Türkiye'deki kullanıcılar için geliştirilecek ancak farklı dillerdeki dökümanları da kullanmanız isteniyor.
     - Geliştireceğiniz model ile kullanıcıların sorularına en yakın dökümanları döndürmeniz isteniyor.
     - Bu modeli geliştirmek için nasıl bir sistem dizayn ederdiniz?
-
+- Numpy'da birim matris için kullanılan fonksiyon nedir?
+- SMOTE nedir, kullandınız mı ve ne işe yarar?
+- Bir veri setindeki aykırı değerler ile nasıl başa çıkarsınız?
