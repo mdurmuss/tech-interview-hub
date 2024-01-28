@@ -3,6 +3,7 @@
 
 <img src="./assets/dalle_icon.png" width="300" height="300">
 
+---
 #### Sorular
 
 1. Tf-Idf nedir?
